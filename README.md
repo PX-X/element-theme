@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuetest
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# element-theme
+element主题
+>>>>>>> bae21c629b0c63e14ae9719dadf2ecc274375266
